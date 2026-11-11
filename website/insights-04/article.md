@@ -7,7 +7,7 @@ category: Lifestyle
 date: 2026-11-19
 repurposed_from: Partner pilot 01 (carousel "The north coast, unhurried", 15 Nov) + pilot 02 (Reel "Winter wellness", 17 Nov). Week 15–21 Nov, rotation source: Cyprus Constructions (white-label).
 images: images/lagoon.jpg (hero), images/rock-shelves.jpg, images/beach-evening.jpg, images/indoor-pool.jpg. Real photos, cropped from the pilot creatives with no text or logo. The garden shot with glass domes is left out (recognisable resort).
-status: DRAFT, part of the 15–21 Nov batch. Needs owner approval.
+status: APPROVED by the user 11 Nov 2026. Publish Wed 19 Nov 2026.
 ---
 
 # Winter on the North Coast: What Daily Life Is Like Out of Season
